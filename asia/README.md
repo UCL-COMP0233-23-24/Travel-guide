@@ -1,1 +1,2 @@
 # ASIA
+[Malaysia](./malaysia/)
