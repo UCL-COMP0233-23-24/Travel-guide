@@ -1,3 +1,3 @@
 # ASIA
-[Malaysia](./malaysia/README.md)
+[Malaysia](malaysia/README.md)
 [Subang](./malaysia/subang.md)
