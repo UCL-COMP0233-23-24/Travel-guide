@@ -1,6 +1,6 @@
-### Guizhou
+# Guizhou
 
-# Country: China
+### Country: China
 
 - Mountains
 
