@@ -1,2 +1,2 @@
 # ASIA
-[Malaysia](./malaysia/)
+[Malaysia](./malaysia/readme.md)
