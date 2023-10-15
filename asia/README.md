@@ -1,3 +1,3 @@
 # ASIA
 
-[Japan](./Japan)
+[Japan](./Japan/readme.md)
