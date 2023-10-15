@@ -1,3 +1,3 @@
 # ASIA
 
-[Japan](./Japan/Kyoto.md)
+[Japan](./Japan)
