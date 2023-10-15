@@ -1,1 +1,1 @@
-[Kyoto](https://github.com/abrahamjacob98/Travel-guide/blob/irene-abe/asia/Japan/Kyoto.md)
+[Kyoto](https://github.com/UCL-COMP0233-23-24/Travel-guide/blob/main/asia/Japan/Kyoto.md)
