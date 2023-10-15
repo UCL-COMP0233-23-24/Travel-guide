@@ -1,3 +1,3 @@
 # ASIA
 
-[Japan](./asia/Japan)
+[Japan](./Japan)

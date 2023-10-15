@@ -1,1 +1,1 @@
-[Kyoto](./asia/Japan/Kyoto.md)
+[Kyoto](./Kyoto.md)
