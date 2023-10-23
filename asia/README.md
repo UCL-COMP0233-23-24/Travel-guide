@@ -1,3 +1,3 @@
 # ASIA
 
-[jordan](./jordan/petra.md)
+[jordan](./jordan/jordan.md)
